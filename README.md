@@ -7,3 +7,7 @@
 * hashlib
 * pyperclip
 * pyinputplus
+* cyptography
+
+## To install module##
+pip install module
