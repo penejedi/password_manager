@@ -1,6 +1,7 @@
+# Command Line Password Manager #
+
 ## TODO: ##
-* cmd version for password manager
-* then create GUI version for it
+* GUI version for better convenience
 
 ## Module used: ##
 * mysql.connector
