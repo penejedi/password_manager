@@ -1,14 +1,11 @@
 # Command Line Password Manager #
 
-## TODO: ##
-* GUI version for better convenience
-
 ## Module used: ##
 * mysql.connector
 * hashlib
 * pyperclip
 * pyinputplus
-* cyptography
+* cryptography
 
 ## To install module ##
 pip install module
